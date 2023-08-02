@@ -70,10 +70,10 @@ html {
 
 header {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: left;
-  gap: 100px;
-  font-family: cursive;
+  gap: 30px;
+  font-family: Roboto,sans-serif;
   background-color: green;
   background-image: url("wolf.jpg");
   background-repeat: no-repeat;
@@ -85,7 +85,25 @@ header {
 
 #intro-text {
   padding: 30px;
+  text-shadow: 2px 2px 4px #000000;
   
+  
+}
+
+#intro-card
+{
+  height: 300px;
+  width: 500px;
+  margin: 30px;
+  background-color: black;
+  border-radius: 5px;
+  box-shadow: 10px 10px 15px #FEFF40;
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+  padding-left: 20px;
+  font-family: Roboto,sans-serif;
+  word-wrap: break-word;
 }
 
 
@@ -184,7 +202,16 @@ header {
 article {
   flex-grow: 1.5;
   text-align: center;
-  font-family: cursive;
+}
+
+article h1
+{
+  font-family: Roboto,sans-serif;
+  padding-bottom: 20px;
+  word-wrap: break-word;
+  text-shadow: 2px 2px 4px #000000;
+  color: white;
+
 }
 
 
@@ -212,7 +239,7 @@ article {
 }
 
 .card:hover {
-  box-shadow: 0 8px 16px 0 red;
+  box-shadow: 0 8px 16px 0 yellow;
 }
 
 .container {
