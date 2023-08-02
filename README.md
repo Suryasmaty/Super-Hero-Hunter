@@ -1,6 +1,5 @@
 # Super-Hero-Hunter
 
-# SuperHero Hunt
 <img width="950" alt="image" src="https://github.com/Suryasmaty/Super-Hero-Hunter/assets/66779525/942f1893-a45d-4394-88d0-abf2357a2c83">
 
 
@@ -25,15 +24,25 @@ SuperHero Hunt is a project that aims to provide superhero enthusiasts with an e
 - Browse and search for superheroes
 - View detailed profiles of superheroes, including images and descriptions
 - Add superheroes to your favorites list
+- Remove superheroes from your favorites list
 - Responsive design for optimal viewing on various devices
 
 ## Screenshots
 
-![Homepage]
+Homepage
 <img width="950" alt="image" src="https://github.com/Suryasmaty/Super-Hero-Hunter/assets/66779525/cfc9760d-b9dc-4d8e-8a8d-885c1e8925cb">
 
-![Superhero Details]
-<img width="937" alt="image" src="https://github.com/Suryasmaty/Super-Hero-Hunter/assets/66779525/d987a626-f185-489c-938a-dcb4c5c5ba4e">
+Superhero Details
+<img width="950" alt="image" src="https://github.com/Suryasmaty/Super-Hero-Hunter/assets/66779525/d987a626-f185-489c-938a-dcb4c5c5ba4e">
+
+Super Hero Search
+<img width="950" alt="image" src="https://github.com/Suryasmaty/Super-Hero-Hunter/assets/66779525/9c51183f-8525-4c9a-bd36-f33fc54f5408">
+
+Favorites
+<img width="950" alt="image" src="https://github.com/Suryasmaty/Super-Hero-Hunter/assets/66779525/933c1e68-03cc-4394-97d0-2edff24135dc">
+
+
+
 
 
 ## Technologies Used
