@@ -92,7 +92,7 @@ header {
 
 #intro-card
 {
-  height: 300px;
+  height: 500px;
   width: 500px;
   margin: 30px;
   background-color: black;
@@ -106,6 +106,17 @@ header {
   word-wrap: break-word;
 }
 
+#intro-card p{
+  text-align: justify;
+  padding-right: 40px;
+}
+
+#intro-buttons
+{
+  display: flex;
+  flex-direction: row;
+  gap:30px
+}
 
 #search {
   cursor: pointer;
