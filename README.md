@@ -29,16 +29,20 @@ SuperHero Hunt is a project that aims to provide superhero enthusiasts with an e
 
 ## Screenshots
 
-Homepage
+- Homepage
 <img width="950" alt="image" src="https://github.com/Suryasmaty/Super-Hero-Hunter/assets/66779525/cfc9760d-b9dc-4d8e-8a8d-885c1e8925cb">
 
-Superhero Details
+- Superhero Details
 <img width="950" alt="image" src="https://github.com/Suryasmaty/Super-Hero-Hunter/assets/66779525/d987a626-f185-489c-938a-dcb4c5c5ba4e">
 
-Super Hero Search
+- Superhero Modal
+<img width="950" alt="image" src="https://github.com/Suryasmaty/Super-Hero-Hunter/assets/66779525/a20ff680-f5b1-49f7-a26a-0efa3169f5fc">
+
+
+- Super Hero Search
 <img width="950" alt="image" src="https://github.com/Suryasmaty/Super-Hero-Hunter/assets/66779525/9c51183f-8525-4c9a-bd36-f33fc54f5408">
 
-Favorites
+- Favorites
 <img width="950" alt="image" src="https://github.com/Suryasmaty/Super-Hero-Hunter/assets/66779525/933c1e68-03cc-4394-97d0-2edff24135dc">
 
 
