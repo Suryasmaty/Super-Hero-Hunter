@@ -39,6 +39,23 @@ html {
   font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
+#contentSection
+{
+  display: flex;
+  flex-direction: column;
+  flex:1;
+  justify-content: space-between;
+}
+
+#main {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
 
 .content {
   margin-left: 65px;
@@ -47,7 +64,6 @@ html {
   display: flex;
   flex-direction: column;
   gap: 80px;
-
   justify-content: space-between;
   flex:1;
 }
@@ -69,6 +85,7 @@ header {
 
 #intro-text {
   padding: 30px;
+  
 }
 
 
@@ -167,17 +184,10 @@ header {
 article {
   flex-grow: 1.5;
   text-align: center;
+  font-family: cursive;
 }
 
 
-#main {
-  display: flex;
-  flex-direction: row;
-  gap: 20px;
-  flex-wrap: wrap;
-  justify-content: center;
-
-}
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -193,7 +203,6 @@ article {
 .card img {
 
   height: 250px;
-  /*transition: transform 0.3s;*/
   transition: 0.5s all ease-in-out;
 }
 

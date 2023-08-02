@@ -1,4 +1,4 @@
-/* styles.css */
+
 
 body,
 html {
@@ -16,11 +16,8 @@ html {
   left: 0;
   bottom: 0;
   width: 65px;
-  /* Adjust the width as needed */
   background-color: #f8f9fa;
-  /* Optional: Set the background color for the sidebar */
   border: solid #FFC500 1.5px;
-  /* Optional: Add a border on the right side */
   text-align: center;
   background-color: #FFC500;
   display: flex;
@@ -39,7 +36,7 @@ html {
   flex-direction: row;
   gap: 80px;
   padding-bottom: 30px;
-  flex: 1;
+
 }
 
 .wrapper {
@@ -130,13 +127,11 @@ html {
 
   height: 250px;
   transition: transform 0.3s;
-  /* Set the transition duration for the zoom effect */
 }
 
 
 .card img:hover {
   transform: scale(1.1);
-  /* Zoom in the image by 10% when hovering */
 }
 
 .card:hover {
@@ -232,7 +227,6 @@ html {
 
     height: 100px;
     transition: transform 0.3s;
-    /* Set the transition duration for the zoom effect */
   }
 
 }
